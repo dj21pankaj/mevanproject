@@ -26,5 +26,7 @@ public class BaseClass1
     {
     	Reporter.log("Closing Browser",true);
 	    driver.close();
+	    Reporter.log("git testing",true);
     }
+   
 }
